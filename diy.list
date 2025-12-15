@@ -1,0 +1,3 @@
+# tailscale 相关流量直连 ---
+- DOMAIN-SUFFIX,tailscale.com,DIRECT
+- DOMAIN-KEYWORD,derp,DIRECT
